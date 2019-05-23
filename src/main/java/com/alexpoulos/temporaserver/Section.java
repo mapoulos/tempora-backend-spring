@@ -18,8 +18,7 @@ public class Section {
 
 	private String audioURL;
 	
-	//private Work work;
-	
+		
 	public String getNumber() {
 		return number;
 	}
@@ -42,10 +41,5 @@ public class Section {
 	public String getId() {
 		return id;
 	}
-//	public Work getWork() {
-//		return work;
-//	}
-//	public void setWork(Work work) {
-//		this.work = work;
-//	}
+
 }

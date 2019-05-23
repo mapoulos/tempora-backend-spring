@@ -15,7 +15,6 @@ public class Work {
 	
 	private String info;
 	private List<Section> sections;
-//	private Author author;
 	
 	
 	public Work(final String name, final String info, final List<Section> sections) {
@@ -56,16 +55,6 @@ public class Work {
 	public String getId() {
 		return id;
 	}
-
-
-//	public Author getAuthor() {
-//		return author;
-//	}
-//
-//
-//	public void setAuthor(Author author) {
-//		this.author = author;
-//	}
 
 
 	
