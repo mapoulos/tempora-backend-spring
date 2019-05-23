@@ -1,0 +1,33 @@
+{
+	"name": "Evagrius",
+	"info": "4th. century", 
+	"works" : [{
+		"name" : "On Prayer", 
+		"info" : "153 maxims on prayer", 
+		"sections" : [{
+			"number": "1", 
+			"text" : "this is some text", 
+			"audioURL":"https://blarg.com/a.mp3"
+			}, 
+			{"number": "2", 
+			 "text" : "this is some text 2", 
+			 "audioURL":"https://blarg.com/b.mp3"}]
+			}]  
+}
+
+{
+	"name": "Brother Lawrence",
+	"info": "17. century", 
+	"works" : [{
+		"name" : "Maxims", 
+		"info" : "38 maxims on prayer", 
+		"sections" : [{
+			"number": "1", 
+			"text" : "higled ", 
+			"audioURL":"https://blarg.com/a.mp3"
+			}, 
+			{"number": "2", 
+			 "text" : "harg", 
+			 "audioURL":"https://blarg.com/b.mp3"}]
+			}]  
+}
